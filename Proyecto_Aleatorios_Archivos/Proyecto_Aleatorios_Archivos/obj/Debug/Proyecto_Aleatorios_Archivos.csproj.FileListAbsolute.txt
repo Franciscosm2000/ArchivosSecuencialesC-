@@ -1,0 +1,20 @@
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.exe.config
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.exe
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.pdb
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.Form1.resources
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.Properties.Resources.resources
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csproj.GenerateResource.cache
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.exe
+C:\Users\francisco sandoval\Documents\C#\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.pdb
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.exe.config
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.exe
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\bin\Debug\Proyecto_Aleatorios_Archivos.pdb
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.Form1.resources
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.Properties.Resources.resources
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.exe
+C:\Users\franc\Documents\Trabajos en linea de programacion 2\Trabajo_\Trabajo\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\Proyecto_Aleatorios_Archivos\obj\Debug\Proyecto_Aleatorios_Archivos.pdb
